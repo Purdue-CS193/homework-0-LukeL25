@@ -13,10 +13,10 @@ Syntax highlighted code block
 
 # Luke's First CS193 Homework
 
-**My Bulleted List:**
 - Learn about details not taught in 180
 - Laid back
 - No pressure of final
+- Good Class size
 
 
 
